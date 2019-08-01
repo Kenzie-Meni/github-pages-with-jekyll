@@ -12,5 +12,5 @@ github_username:  Kenzie-Meni
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jjekyll-theme-cayman
+theme:jekyll-theme-minimal
 
